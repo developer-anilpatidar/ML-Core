@@ -1,12 +1,12 @@
 # ML-Core
 Machin Learning Algorithms
 
-	1.	Linear Regression
-	2.	Logistic Regression
-	3.	Decision Tree & Random Forest
-	4.	KNN
-	5.	SVM
-	6.	Naive Bayes
-	7.	K-Means & PCA
-	8.	Boosting Algorithms
-	9.	Neural Networks
+- Linear Regression
+- Logistic Regression
+- Decision Tree & Random Forest
+- KNN
+- SVM
+- Naive Bayes
+- K-Means & PCA
+- Boosting Algorithms
+- Neural Networks
